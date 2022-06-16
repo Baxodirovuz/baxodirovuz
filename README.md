@@ -1,5 +1,6 @@
-<p align="center"><a href="https://github/Baxodirovuz"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jaloliddin. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
+<h1 align = "center">Salom, Men Jaloliddin Baxodirov</h1>
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
@@ -10,7 +11,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- ❤️ Men asosan Javada kod yozaman, va har turdagi ko`plab loyihalar qilishni yoqtiraman
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
