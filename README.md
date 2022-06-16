@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Jaloliddin. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://instagram.com/baxodirovuz"><img width="80%" alt="Hello, I'm Jaloliddin. I do open source!" src=".photo.jpg" /></a></p>
 
 <h1 align = "center">Salom, Men Jaloliddin Baxodirov</h1>
 <br />
