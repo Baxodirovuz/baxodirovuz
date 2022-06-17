@@ -1,7 +1,7 @@
 <h1 align = "center">Salom, Men Jaloliddin Baxodirov</h1>
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Men hozirda "Uzbekistan"da faoliyat olib boraman 
 
 **About me**
 
