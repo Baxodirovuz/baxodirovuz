@@ -11,7 +11,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - ❤️ Men asosan Javada kod yozaman, va har turdagi ko`plab loyihalar qilishni yoqtiraman
 
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/Baxodirovuz)
 
 <a href = "https://www.instagram.com/baxodirovuz/" ><code><img height="20" alt="instagram" src=https://cdn-icons-png.flaticon.com/128/174/174855.png></code></a>
 <a href = "https://www.t.me/baxodirovuz/" ><code><img height="20" alt="telegram" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1655383616~hmac=6f5ad1570cdcdfa4763c0fa9c8551058"></code></a>    
