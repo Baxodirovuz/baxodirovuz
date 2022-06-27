@@ -7,9 +7,9 @@ Men hozirda "Uzbekistan"da faoliyat olib boraman
 
 - 💼 Java Developer at [Jaloliddin](http://instagram.com/baxodirovuz)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 📈 The audience for projects installed on the Git Hub is huge
 
-- ❤️ Men asosan Javada kod yozaman, va har turdagi ko`plab loyihalar qilishni yoqtiraman
+- ❤️ I mostly write code in Java, and I like to do a lot of projects of all kinds
 
 - 💬 Ask me about anything [here](https://github.com/Baxodirovuz)
 
