@@ -22,6 +22,3 @@ Men hozirda "Uzbekistan"da faoliyat olib boraman
 | <a href="https://github.com/Baxodirovuz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxodirovuz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Baxodirovuz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxodirovuz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-
