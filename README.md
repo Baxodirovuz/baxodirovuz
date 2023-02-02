@@ -15,20 +15,16 @@
 - 💬 Ask me about anything [here](https://github.com/Baxodirovuz)
 
 <a href = "https://www.instagram.com/baxodirovuz/" ><code><img height="20" alt="instagram" src=https://cdn-icons-png.flaticon.com/128/174/174855.png></code></a>
-<a href = "https://www.github.com/Baxodirovuz/" ><code><img height="20" alt="github" src="https://cdn-icons-png.flaticon.com/128/733/733553.png"></code></a>
-<a href = "https://www.t.me/baxodirovuz/" ><code><img height="20" alt="telegram" src="https://cdn-icons.flaticon.com/png/128/2504/premium/2504941.png?token=exp=1655383616~hmac=6f5ad1570cdcdfa4763c0fa9c8551058"></code></a>
+<a href = "https://www.github.com/clientsub/" ><code><img height="20" alt="github" src="https://cdn-icons-png.flaticon.com/128/733/733553.png"></code></a>
+<a href = "https://www.t.me/baxodirovuz/" ><code><img height="20" alt="telegram" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"></code></a>
+<a href = "https://www.twitter.com/Baxodirovuz/" ><code><img height="20" alt="twitter" src="https://cdn-icons-png.flaticon.com/512/733/733579.png"></code></a>
+<a href = "https://www.linkedin.com/in/jaloliddin-baxodirov-862017249/" ><code><img height="20" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></code></a>
+<a href = "https://www.facebook.com/Baxodirovuz/" ><code><img height="20" alt="facebook" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png"></code></a>
 
 
 
 | <a href="https://github.com/Baxodirovuz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxodirovuz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Baxodirovuz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxodirovuz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-
- <a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://twitter.com/Baxodirovuz" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://linkedin.com/in/jaloliddin-baxodirov-862017249/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
-
-
 
 ``` java
 if (codeWorking){
