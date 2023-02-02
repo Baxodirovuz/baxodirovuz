@@ -21,11 +21,6 @@
 <a href = "https://www.linkedin.com/in/jaloliddin-baxodirov-862017249/" ><code><img height="20" alt="linkedin" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></code></a>
 <a href = "https://www.facebook.com/Baxodirovuz/" ><code><img height="20" alt="facebook" src="https://cdn-icons-png.flaticon.com/512/2504/2504903.png"></code></a>
 
-
-
-| <a href="https://github.com/Baxodirovuz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Baxodirovuz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Baxodirovuz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxodirovuz&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 ``` java
 if (codeWorking){
             while (codeQuality < perfectCode){
