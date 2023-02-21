@@ -1,18 +1,21 @@
 <h1 align="center"> Hi 👋🏻, I'm Jaloliddin Baxodirov </br> 
 </h1>
-<p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">This is my simple readme.md about myself⚡</p>
+<p align="center">I make mistakes to be strong 🚀</p>
 <p align="center">
 
-**About me**
+**Briefly about myself**
 
-- 💼 Java Developer at [Jaloliddin](http://instagram.com/baxodirovuz)
-
-- 📈 The audience for projects installed on the Git Hub is huge
-
-- ❤️ I mostly write code in Java, and I like to do a lot of projects of all kinds
-
+- 😐 My name is [Jaloliddin Baxodirov](http://clientsub.github.io/Jaloliddin-Baxodirov/)
+- 📈 Specialty Mainly Java , PostgreSQL , GitHub
+- ❤️ During the day I write my projects on github
 - 💬 Ask me about anything [here](https://github.com/Baxodirovuz)
+
+
+## The reason for my actions
+1. 🧒 Because I was interested from a young age and stood out among my peers
+2. 🏢 Many years of working for large companies, working with them and taking my career to the level I wanted
+
 
 <a href = "https://www.instagram.com/baxodirovuz/" ><code><img height="20" alt="instagram" src=https://cdn-icons-png.flaticon.com/128/174/174855.png></code></a>
 <a href = "https://www.github.com/clientsub/" ><code><img height="20" alt="github" src="https://cdn-icons-png.flaticon.com/128/733/733553.png"></code></a>
